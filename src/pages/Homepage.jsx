@@ -12,7 +12,7 @@ function Homepage() {
       </div>
 
       {/* home page  */}
-      <div className="px-12 gap-44 items-center flex justify-center h-screen w-full bg-[url('./images/homebg.png')] home">
+      <div className="px-12 gap-44 items-center flex justify-center h-screen w-full bg-[url('./public/images/homebg.png')] home">
         <div className="pl-20">
           <h1 className="text-6xl w-3/5 pr-20 text-[#24387a] font-semibold">
             Your Help Matters,
