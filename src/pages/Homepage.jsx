@@ -20,10 +20,9 @@ function Homepage() {
             No Matter How Big Or Small.
           </h1>
           <p className="w-1/2 mt-8 my-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
-            officiis minus soluta, ex inventore earum eius repellat? Quibusdam
-            facilis, accusantium ut iste esse adipisci pariatur libero velit
-            nostrum. Quis, maiores.
+            Karwaa.N is a non profit organization aimed towards helping the
+            underprivileged children by various means like Cloth donation,
+            Teaching them about various examinations, Book donations etc.
           </p>
           <div className="h-auto flex gap-6 py-6 w-96 ">
             <button className="border-2 flex flex-row justify-center items-center gap-2 font-semibold text-white px-4 py-1 rounded-full bg-[#24387a] hover:bg-white hover:text-[#24387a] duration-300 hover:border-2 hover:border-[#24387a]">
