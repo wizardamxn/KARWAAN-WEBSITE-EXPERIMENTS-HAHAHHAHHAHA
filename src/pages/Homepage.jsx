@@ -91,23 +91,23 @@ function Homepage() {
         </p>
         <div className="w-2/3 my-10 gap-4 flex justify-center ">
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-4xl">11</h1>
+            <p className="text-sm">Clothes Donated</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-4xl">11</h1>
+            <p className="text-sm">Children Helped</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center sideborder">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-4xl">11</h1>
+            <p className="text-sm">Books Donated</p>
           </div>
 
           <div className="w-full h-24  flex flex-col justify-center items-center">
-            <h1 className="text-4xl">24</h1>
-            <p className="text-sm">Aryan Tyagi</p>
+            <h1 className="text-4xl">11</h1>
+            <p className="text-sm">Got donations worth</p>
           </div>
         </div>
       </div>
