@@ -55,9 +55,10 @@ function Homepage() {
           <div className="w-full py-4 p-12 pl-32 h-full">
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
-              sit quia doloremque, quisquam harum consequatur debitis expedita
-              dolorum maxime temporibus pariatur ratione velit quibusdam ullam
-              fuga hic deleniti at error.
+              Karwaa.N is an organization formed by the alumni of the
+              Jabalpur Engineering College, Jabalpur and is ran by the
+              students of current years. We aim to provide basic necessities
+              ti underprivileged children.
             </p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo
